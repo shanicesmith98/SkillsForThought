@@ -1,0 +1,79 @@
+html, body {
+  font-family: 'Quicksand', sans-serif;
+}
+
+#navi {
+    background-color: #545E75;
+    color: white;
+  }
+
+#navi > a {
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+ul, li {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+  
+.active-btn {
+    background: #DD6E42;
+    color: white;
+    border: none;
+  }
+  
+.active-text {
+    color: #DD6E42;
+  }
+
+.landing-title {
+  height:400px;
+}
+
+.landing {
+    background: url(../images/landing-img.png) center no-repeat;
+    background-size: 1250px;
+  }
+  
+.footer {
+    background-color: #545E75;
+    color: white;
+    padding-bottom: 48px;
+  }
+
+.subtitle {
+  color: #DD6E42;
+  font-weight: bold;
+  padding-top: 15px;
+}
+
+.profile-sidebar {
+  background-color: #545E75;
+  color: white;
+}
+
+.person-img {
+  width: 120px;
+}
+
+.sharing-icon {
+  color: #DAC400;
+}
+
+.learning-icon {
+  color: #2FD305;
+}
+
+.explore-icons {
+    color: #545E75;
+    font-size: 60px;
+}
+
+.res {
+  color: #545E75;
+  font-size: 15px;
+}
